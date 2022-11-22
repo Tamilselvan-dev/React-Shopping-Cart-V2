@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "https://wallpapercave.com/wp/wp2036967.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "https://th.bing.com/th/id/OIP.0SYoLkOLvg4VQy9a1YCw4AHaE8?pid=ImgDet&rs=1"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 8000,
+    "imgUrl": "https://th.bing.com/th/id/R.4bda28c9d4fb0703ed24de2f66fb62b0?rik=79i6gLR3hw20jQ&riu=http%3a%2f%2fwallpaperheart.com%2fwp-content%2fuploads%2f2018%2f05%2fbike-wallpapers-hd-download-8.jpg&ehk=KGXWbQVaT5bS3n5MzFvloFK0oYtksEbGQbH0Xh3rLdw%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "https://th.bing.com/th/id/OIP.Rl58WdXDpkcyYlhZwmxqYwHaEK?pid=ImgDet&rs=1"
+  }
+]
